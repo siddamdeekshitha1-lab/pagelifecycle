@@ -30,6 +30,7 @@
                 <asp:Label ID="lbltennis" runat="server"></asp:Label><br />
     <asp:CheckBox ID="chkcricket" runat="server" AutoPostBack="true" OnCheckedChanged="chkcricket_CheckedChanged" />Cricket
                 <asp:Label ID="lblcricket" runat="server"></asp:Label><br />
+            <p>====================================================================================</p>
 
 </div>
     </form>
